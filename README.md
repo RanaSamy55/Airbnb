@@ -7,7 +7,7 @@ Boston Airbnb Analysis
 # Motivation 
 This project is my first data science project on Github following CRISP-DM focusing on he big picture of the process by tring to understand the business.
 I got the open data from https://www.kaggle.com/airbnb/boston  as database . I did the analysis targeting to aid the investement decisions in Airbnb in Boston all related to customer rating and Price influence.
-Project blog is published on medium
+Project blog is published on medium https://medium.com/@rana.samy/mater-your-investment-data-analytics-34f71b9dbb03
 
 # Main File and Datasets
 The main Code File: BostonAirbnb.ipynb
